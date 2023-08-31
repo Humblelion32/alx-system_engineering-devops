@@ -1,0 +1,3 @@
+#!/bin/bash
+cd ../folder_source
+for f in *.html
